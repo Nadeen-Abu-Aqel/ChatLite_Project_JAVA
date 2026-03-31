@@ -43,15 +43,19 @@ This project supports communication between different devices using:
 - `ClientHandler.java` → Handles each connected client  
 - `UltraChatUI.java` → Client user interface  
 - `users.txt` → Stores registered users  
-
 ## 🧪 How to Run
 
 1. Run the server:
+   - Open `ServerUI.java`
+   - Run the server (port 6789)
 
 2. Run the client:
-   
-3. Enter server IP and start chatting 🎉
+   - Open `UltraChatUI.java`
+   - Enter the server IP address
 
+3. Start chatting:
+   - Enter username
+   - Join a room and send messages 🎉
 ## 📸 Screenshots
 <img width="1348" height="728" alt="Screenshot 2026-03-29 183156" src="https://github.com/user-attachments/assets/aa647cbe-1220-4ae1-98c1-b5a335567441" />
 <img width="1360" height="878" alt="Screenshot 2026-03-29 141923" src="https://github.com/user-attachments/assets/73ec7055-a967-44ee-9d21-2301d985109d" />
